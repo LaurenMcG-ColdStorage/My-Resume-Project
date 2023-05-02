@@ -1,9 +1,19 @@
 CSS
 body{
-    background:color;lavender
+    background-color :rgb(172, 115, 172);
+    width  :400px;
+    margin-left: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(56, 55, 55)
 }
 
-h2{
-    color;white
-    font-family; Impact
+.name{
+    color:rgb(204, 202, 199);
+    font-size: 22px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.highlight{
+    font-size: 18px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
